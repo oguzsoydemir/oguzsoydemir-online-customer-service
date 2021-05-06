@@ -1,0 +1,28 @@
+.headerBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: beige;
+  border-radius: 4px 4px 0 0;
+  height: 50px;
+  width: 100%;
+}
+
+.leftChatContainer {
+  flex: 0.5;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  color: black;
+}
+
+.rightChatContainer {
+  display: flex;
+  flex: 0.5;
+  justify-content: flex-end;
+  margin-right: 5%;
+}
+
+.online {
+  margin-right: 15%;
+}

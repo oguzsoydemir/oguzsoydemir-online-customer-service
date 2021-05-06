@@ -1,0 +1,7 @@
+.adminMessages {
+  padding: 5% 1% 5%;
+  height: 97%;
+  overflow-x: auto;
+  flex: none;
+  background: white;
+}

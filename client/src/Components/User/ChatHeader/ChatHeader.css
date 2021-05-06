@@ -1,0 +1,20 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: beige;
+  height: 60px;
+  width: 100%;
+}
+
+.titleContainer {
+  float: 0.5;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  color: white;
+}
+
+h5 {
+  color: darkgreen;
+}

@@ -1,0 +1,18 @@
+.messagesContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  height: 100%;
+}
+
+.chatContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #ffffff;
+  border-radius: 8px;
+  height: 800px;
+  width: 100%;
+}
+
+

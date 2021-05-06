@@ -1,0 +1,31 @@
+.adminForm {
+  display: flex;
+  height: 90%;
+  border-top: 2px solid #d3d3d3;
+}
+
+.adminInput {
+  padding: 50px 10px 50px 10px;
+  font-size: large;
+  border: 2px solid lightgray;
+  width: 85%;
+  height: 20%;
+  overflow-x: visible;
+}
+
+.adminSendButton {
+  color: black !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: beige;
+  padding: 3.4%;
+  display: inline-block;
+  border: 2px solid lightgray;
+  width: 15%;
+  height: 20%;
+}
+
+.bold {
+  font-size: large;
+  text-align: center;
+}
